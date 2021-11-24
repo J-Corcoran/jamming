@@ -1,5 +1,5 @@
 const clientId = 'd8e461c96d64480390abdf1c07050ff6';
-const redirectUri = 'npm run buildh';
+const redirectUri = 'https://jammyjam.netlify.app/';
 let accessToken;
 
 
