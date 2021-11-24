@@ -1,5 +1,5 @@
 const clientId = 'd8e461c96d64480390abdf1c07050ff6';
-const redirectUri = 'http://joe_jamjamjam.surge.sh';
+const redirectUri = 'npm run buildh';
 let accessToken;
 
 
